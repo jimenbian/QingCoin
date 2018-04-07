@@ -1,0 +1,9 @@
+
+<view>Block chain</view>
+
+<span style="font-size:24px;"><!--index.wxml-->  
+<view class="container">  
+    <view style="color:{{red}}">{{city_name}}</view>  
+    <view>{{date}}</view>  
+    <view>{{info}}</view>  
+</view></span> 
